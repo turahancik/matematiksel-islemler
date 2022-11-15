@@ -1,0 +1,8 @@
+calisma001.c
+*.c
+*.exe
+*.json
+.vscode
+*.html
+
+
